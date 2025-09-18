@@ -5,7 +5,6 @@ import cookieParser from "cookie-parser";
 import dotenv from "dotenv"
 import AuthRoutes from "./Routes/AuthRoutes.js";
 import DocumentRoutes from "./Routes/DocumentRoutes.js";
-import gemini from "./Config/gemini.js";
 import GeminiRoutes from "./Routes/GeminiRoutes.js";
 
 
