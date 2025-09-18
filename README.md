@@ -94,6 +94,8 @@ root
 
 ```bash
 git clone https://github.com/o5harshit/Knowledge-Hub.git
+```
+
 1) Server Setup
 cd server
 npm install
@@ -118,6 +120,4 @@ MIT License
 
 ---
 
-If you want, I can also **create a shorter “Student Assignment Ready” version** that highlights the demo steps and core features in a concise way for submission.  
-
-Do you want me to do that?
+If you want, I can also **create a shorter “Student Assignment Ready” version** that highlights the demo steps and core features in a concise way for submission. 
