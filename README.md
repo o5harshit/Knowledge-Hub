@@ -73,6 +73,7 @@ An AI-powered collaborative knowledge management platform built using the **MERN
 ---
 
 ## Project Structure
+```
 root
 ├── client/ # React frontend
 │ ├── src/
@@ -85,6 +86,7 @@ root
 ├── .env.example # Required environment variables
 ├── README.md
 └── package.json
+```
 
 ---
 
