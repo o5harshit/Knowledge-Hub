@@ -21,7 +21,7 @@ An AI-powered collaborative knowledge management platform built using the **MERN
 
 ## Demo
 
-- **Video Demo:** [Add Link to Demo Video]
+- **Video Demo:**  https://drive.google.com/uc?id=1Ibbkcdntd3iVKmH7olHg9bkATWhQm9TA&export=download
 
 ---
 
