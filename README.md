@@ -97,22 +97,22 @@ git clone https://github.com/o5harshit/Knowledge-Hub.git
 ```
 
 1) Server Setup
-cd server
-npm install
-2) Client Setup
-cd client
-npm install
-3) Environment Variables
-MONGO_URI=<Your MongoDB connection string>
-JWT_SECRET=<Your JWT secret>
-GEMINI_API_KEY=<Your Gemini API key>
-PORT=5000
-4) Run Backend
-cd server
-npm run dev
+ - cd server
+ - npm install
+3) Client Setup
+ - cd client
+ - npm install
+4) Environment Variables
+ - MONGO_URI=<Your MongoDB connection string>
+ - JWT_SECRET=<Your JWT secret>
+ - GEMINI_API_KEY=<Your Gemini API key>
+ - PORT=5000
+5) Run Backend
+ - cd server
+ - npm run dev
 5)Run Frontend
-cd client
-npm start
+ - cd client
+ - npm start
 
 License
 
