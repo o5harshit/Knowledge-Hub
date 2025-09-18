@@ -109,10 +109,10 @@ git clone https://github.com/o5harshit/Knowledge-Hub.git
  - PORT=5000
 5) Run Backend
  - cd server
- - npm run dev
-5)Run Frontend
+ - npm run start
+6)Run Frontend
  - cd client
- - npm start
+ - npm run dev
 
 License
 
